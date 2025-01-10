@@ -1,0 +1,45 @@
+{
+    "terminal.integrated.tabs.location": "left",
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.enabled": false,
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.location": "bottom",
+    "workbench.colorTheme": "Eva Darker (Least)",
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoClosingOvertype": "never",
+    "git.autofetch": true,
+    "githubPullRequests.pullBranch": "never",
+    "composer.diagnosticsEnabled": false,
+    "eslint.options": {
+        "overrideConfigFile": "eslint.config.js"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "css.customData": [".vscode/tailwind.json"],
+    "eslint.format.enable": true,
+    "[vue]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "denoland.vscode-deno"
+    },
+    "explorer.confirmDelete": false,
+    "C_Cpp.intelliSenseUpdateDelay": 500,
+    "workbench.editor.wrapTabs": true,
+    "explorer.compactFolders": false,
+    "search.exclude": {
+        "**/node_modules": true,
+    },
+    "githubPullRequests.fileListLayout": "flat",
+    "editor.suggest.insertMode": "insert",
+    "explorer.confirmDragAndDrop": false,
+}
