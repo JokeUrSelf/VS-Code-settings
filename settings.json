@@ -42,4 +42,5 @@
     "githubPullRequests.fileListLayout": "flat",
     "editor.suggest.insertMode": "insert",
     "explorer.confirmDragAndDrop": false,
+    "window.title": "${profileName}${separator}${dirty}${rootName}${separator}VS Code",
 }
