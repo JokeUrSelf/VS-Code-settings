@@ -44,5 +44,6 @@
   "explorer.confirmDragAndDrop": false,
   "workbench.layoutControl.type": "menu",
   "window.title": "${profileName}${separator}${dirty}${rootName}${separator}VS Code",
-  "window.customTitleBarVisibility": "auto",
+"window.customTitleBarVisibility": "auto",
+"workbench.iconTheme": "material-icon-theme",
 }
